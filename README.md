@@ -7,6 +7,8 @@ Performance is ... slow
 
 WARNING: needs python 3.12 not higher for pytorch at the moment
 
+<video src='./assets/vids/assistant.mp4' width=480/>
+
 ## tools in use
 - python
 - ollama
