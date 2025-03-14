@@ -7,8 +7,8 @@ Performance is ... slow
 
 WARNING: needs python 3.12 not higher for pytorch at the moment
 
-<video src="https://github.com/PatouChoubidou/assistant/blob/main/assets/vids/assistant.mp4" width="480" />
 
+https://github.com/user-attachments/assets/32ba66df-09f3-422d-b835-a18f4ab147a6
 
 
 ## tools in use
