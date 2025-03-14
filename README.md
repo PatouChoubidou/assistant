@@ -7,6 +7,8 @@ Performance is ... slow
 
 WARNING: needs python 3.12 not higher for pytorch at the moment
 
+<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" />
+
 [![assistant.mov](./assets/vids/assistant.mp4)](./assets/vids/assistant.mp4)
 
 ## tools in use
