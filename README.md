@@ -7,9 +7,9 @@ Performance is ... slow
 
 WARNING: needs python 3.12 not higher for pytorch at the moment
 
-<video src="https://github.com/PatouChoubidou/assistant/blob/main/assets/vids/assistant.mp4" width="480" >
+<video src="https://github.com/PatouChoubidou/assistant/blob/main/assets/vids/assistant.mp4" width="480" />
 
-[![assistant.mov](./assets/vids/assistant.mp4)](./assets/vids/assistant.mp4)
+
 
 ## tools in use
 - python
