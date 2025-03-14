@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+myvenv/
+Helsinki-NLP/
+
+whisper/medium.pt
+whisper/large-v3.pt
+trials.py
+info/normalize_test.py
+
+*.afdesign
+
+.env
+.env.secret
